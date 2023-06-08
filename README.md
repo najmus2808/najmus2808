@@ -17,7 +17,7 @@
 
 #### What I like to discuss about?
 
-- 💬 Ask me about `Javascript` `React.js` `Node.js` `web APIs` and `tech culture`.
+- 💬 Ask me about `Javascript` `React.js` `Node.js` `Web APIs` and `Tech culture`.
 
 #### What my skill set looks like?
 
